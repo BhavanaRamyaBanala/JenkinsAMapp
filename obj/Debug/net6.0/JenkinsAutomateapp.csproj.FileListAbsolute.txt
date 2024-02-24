@@ -1,0 +1,15 @@
+D:\dotNet\Testing\JenkinsAutomateapp\JenkinsAutomateapp\bin\Debug\net6.0\JenkinsAutomateapp.exe
+D:\dotNet\Testing\JenkinsAutomateapp\JenkinsAutomateapp\bin\Debug\net6.0\JenkinsAutomateapp.deps.json
+D:\dotNet\Testing\JenkinsAutomateapp\JenkinsAutomateapp\bin\Debug\net6.0\JenkinsAutomateapp.runtimeconfig.json
+D:\dotNet\Testing\JenkinsAutomateapp\JenkinsAutomateapp\bin\Debug\net6.0\JenkinsAutomateapp.dll
+D:\dotNet\Testing\JenkinsAutomateapp\JenkinsAutomateapp\bin\Debug\net6.0\JenkinsAutomateapp.pdb
+D:\dotNet\Testing\JenkinsAutomateapp\JenkinsAutomateapp\obj\Debug\net6.0\JenkinsAutomateapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNet\Testing\JenkinsAutomateapp\JenkinsAutomateapp\obj\Debug\net6.0\JenkinsAutomateapp.AssemblyInfoInputs.cache
+D:\dotNet\Testing\JenkinsAutomateapp\JenkinsAutomateapp\obj\Debug\net6.0\JenkinsAutomateapp.AssemblyInfo.cs
+D:\dotNet\Testing\JenkinsAutomateapp\JenkinsAutomateapp\obj\Debug\net6.0\JenkinsAutomateapp.csproj.CoreCompileInputs.cache
+D:\dotNet\Testing\JenkinsAutomateapp\JenkinsAutomateapp\obj\Debug\net6.0\JenkinsAutomateapp.sourcelink.json
+D:\dotNet\Testing\JenkinsAutomateapp\JenkinsAutomateapp\obj\Debug\net6.0\JenkinsAutomateapp.dll
+D:\dotNet\Testing\JenkinsAutomateapp\JenkinsAutomateapp\obj\Debug\net6.0\refint\JenkinsAutomateapp.dll
+D:\dotNet\Testing\JenkinsAutomateapp\JenkinsAutomateapp\obj\Debug\net6.0\JenkinsAutomateapp.pdb
+D:\dotNet\Testing\JenkinsAutomateapp\JenkinsAutomateapp\obj\Debug\net6.0\JenkinsAutomateapp.genruntimeconfig.cache
+D:\dotNet\Testing\JenkinsAutomateapp\JenkinsAutomateapp\obj\Debug\net6.0\ref\JenkinsAutomateapp.dll
